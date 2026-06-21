@@ -10,7 +10,7 @@ I mainly work with **C#, Python, and Golang** with performance, scalability, and
 - **Databases:** MySQL, SQLite  
 - **Other:** REST APIs, ImageSharp, AdGuard Home  
 
-## 🔥 My Major Project: Malice  
+## 🔥 My Major Project was: Malice  
 I developed **Malice**, an advanced bot for **Discord**, which facilitates statistics, comparison, and insights for the game **Marvel Rivals**.  
 - Written in **C# and DSharpPlus**  
 - Stores data in **MySQL**  
